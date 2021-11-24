@@ -31,5 +31,11 @@
 - DELETE => remover dados/informação
 - PATCH => Alterar uma informação especifica
 
-
 ### Final da Aula 1
+
+## TIPOS DE PARAMETROS DAS REQUISIÇÕES
+
+- _Routes Params_ => fazem parte das rotas Ex: http://localhost:3000/productos/id_do_produto
+- _Query Params_ => parametros que entram na query, usado normalmente em filtros , logo depois do ?, caso for maior que 1 separar por & , não obrigatorio. Ex: http://localhost:3000/produtos?name=teclado&rating=10
+
+- _Body Params_ => parametros que chegam no corpo da requisição , nos metodos post put ou patch
