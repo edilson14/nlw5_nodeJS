@@ -45,24 +45,24 @@
 
 - Cadastro de úsuarios
   
-   [] Não é permitido cadastrar mais de um usuário com o mesmo e-mail
+   [x] Não é permitido cadastrar mais de um usuário com o mesmo e-mail
 
-   [] Não é permitido cadastro de usuário sem e-mail
+   [x] Não é permitido cadastro de usuário sem e-mail
 
 
 - Cadastro de TAG
   
-  [] Não é permitido cadastar mais de uma tag com o mesmo nome 
+  [ ] Não é permitido cadastar mais de uma tag com o mesmo nome 
   
-  [] Não é permitido cadastar tag sem nome
+  [ ] Não é permitido cadastar tag sem nome
 
-  [] Não é permitido o cadastro por usuários que não sejam admistradores
+  [ ] Não é permitido o cadastro por usuários que não sejam admistradores
 
   
 - Cadastro de elogios
 
-  [] Não é permitido um usuario cadastar um eleogio para sí
+  [ ] Não é permitido um usuario cadastar um eleogio para sí
 
-  [] Não é permitido cadastar elogios para usuarios inválidos
+  [ ] Não é permitido cadastar elogios para usuarios inválidos
 
-  [] O usuário precisa estar autenticado na aplicação 
+  [ ] O usuário precisa estar autenticado na aplicação 
